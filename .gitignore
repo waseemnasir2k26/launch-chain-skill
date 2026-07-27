@@ -1,0 +1,7 @@
+# Build artifacts produced by the chain — machine-local, never committed
+out/
+
+# Vercel CLI project linkage + credentials — machine-local, never committed
+.vercel/
+.env
+.env.*
