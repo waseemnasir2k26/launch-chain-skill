@@ -4,6 +4,10 @@ A chain of **four Claude Code Skills** wired behind one command. You type
 `/launch "some niche"`, and it **researches** the market, **writes** a landing page, and
 **deploys** it live — hands-off, nothing typed in between.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 This is the free pack from the Claude Code Skills video series. No email, no gate.
 
 ## What's inside
