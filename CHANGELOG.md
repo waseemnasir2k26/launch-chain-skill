@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented in this file.
 
+## [2026.10] - 2026-10-12
+
+- launch-chain-skill is a public, MIT-licensed pack of four chained Claude Code Skills (launch, research, write, deploy) that turn one /launch "niche" command into a researched, written, Vercel-deployed landing page. Prose SKILL.md files only, no build step.
+- State: unchanged since the initial commit in July 2026.
+- Re-reviewed October 2026: README, file tree and commit history re-read; documentation and version metadata only, no code changes. External links (skynetjoe.com, Vercel CLI docs, Vercel tokens page, the series YouTube video) all returned HTTP 200.
+- Known gaps (already in the README): step 3 needs the Vercel CLI installed and logged in, plus a VERCEL_TOKEN if Deployment Protection is forced on; generated pages are demos with placeholder proof. No automated checks exist for prose skills.
+
 ## [2026.09] - 2026-09-16
 
 - Maintenance review of launch-chain-skill — the free companion pack for the Claude Code Skills video series: four chained Skills (`launch` orchestrator, `research`, `write`, `deploy`) that turn one `/launch "niche"` command into a researched, written and Vercel-deployed landing page.
